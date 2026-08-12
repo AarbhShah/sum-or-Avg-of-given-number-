@@ -1,0 +1,1 @@
+# sum-or-Avg-of-given-number-
